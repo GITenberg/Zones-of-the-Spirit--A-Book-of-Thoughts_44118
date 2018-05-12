@@ -1,0 +1,43 @@
+_repo: Zones-of-the-Spirit--A-Book-of-Thoughts_44118
+_version: 0.1.0
+alternative_title: En blå bok. English
+contributor:
+  commentator:
+    agent_name: Babillotte, Arthur
+    birthdate: 1887
+    deathdate: 1916
+    gutenberg_agent_id: '42588'
+    url: http://www.gutenberg.org/2009/agents/42588
+  translator:
+    agent_name: Field, Claud
+    alias: Field, Claud Herbert Alwyn
+    birthdate: 1863
+    deathdate: 1941
+    gutenberg_agent_id: '26394'
+    url: http://www.gutenberg.org/2009/agents/26394
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Strindberg, August
+    alias: Strindberg, Johan August
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '1609'
+    url: http://www.gutenberg.org/2009/agents/1609
+    wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
+description: ''
+gutenberg_issued: '2013-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44118'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish literature'
+- !lcc 'PT'
+title: 'Zones of the Spirit: A Book of Thoughts'
+url: http://www.gutenberg.org/ebooks/44118
